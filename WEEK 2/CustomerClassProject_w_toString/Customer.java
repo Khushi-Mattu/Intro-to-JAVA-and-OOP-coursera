@@ -23,5 +23,4 @@ public class Customer {
 			Customer c = new Customer("Khushii");
 			System.out.println("c = " + c); //this will try to convert customer c to a String by calling the toString method
 		}
-		
 }
